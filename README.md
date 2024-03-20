@@ -1,2 +1,3 @@
 # justfun
-this a repo for fun
+this a repo for fun (checkout branches...)
+have fun...
